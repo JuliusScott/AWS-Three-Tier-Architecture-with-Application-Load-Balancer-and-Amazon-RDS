@@ -33,6 +33,10 @@ This project demonstrates the deployment of a highly available three-tier web ap
 * **LPI Linux Essentials**: Linux command-line administration and system management.
 * **AWS Solutions Architect Associate**: Designing secure, scalable, and highly available AWS solutions.
 
+
+
+
+
 ## Repository Structure
 
 ```text
