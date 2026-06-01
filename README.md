@@ -18,9 +18,14 @@ This project demonstrates the deployment of a highly available three-tier web ap
 
 ## Skills Demonstrated
 
-## Skills Demonstrated
-
-Designed, deployed, and troubleshot AWS infrastructure while applying cloud networking, high availability, load balancing, database connectivity, cloud security, Linux administration, and AWS CLI skills aligned with CompTIA Cloud+, Network+, Security+, LPI Linux Essentials, and AWS Solutions Architect Associate concepts.
+- Designed and configured AWS networking components, including VPCs, subnets, route tables, and gateways.
+- Implemented a highly available architecture across multiple Availability Zones.
+- Configured an Application Load Balancer to distribute traffic across multiple EC2 instances.
+- Established secure connectivity between the application and database tiers using Amazon RDS MySQL.
+- Applied cloud security best practices through the use of security groups and least-privilege access.
+- Utilized Linux administration skills to configure and manage EC2 instances.
+- Deployed and managed AWS resources using the AWS Command Line Interface (CLI).
+- Validated system functionality and resolved infrastructure issues through troubleshooting and testing.
 
 ## Certification Alignment
 
