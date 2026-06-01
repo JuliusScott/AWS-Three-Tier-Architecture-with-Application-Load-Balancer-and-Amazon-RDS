@@ -1,5 +1,7 @@
 # Architecture Diagram
 
+![AWS Three Tier Architecture](aws-three-tier-architecture-diagram.png)
+
 This diagram illustrates the AWS Three-Tier Architecture deployed in this project.
 
 ## Components
