@@ -18,14 +18,9 @@ This project demonstrates the deployment of a highly available three-tier web ap
 
 ## Skills Demonstrated
 
-- AWS Networking
-- High Availability Design
-- Load Balancing
-- Database Connectivity
-- Cloud Security
-- Linux Administration
-- AWS CLI
-- Troubleshooting
+## Skills Demonstrated
+
+Designed, deployed, and troubleshot AWS infrastructure while applying cloud networking, high availability, load balancing, database connectivity, cloud security, Linux administration, and AWS CLI skills aligned with CompTIA Cloud+, Network+, Security+, LPI Linux Essentials, and AWS Solutions Architect Associate concepts.
 
 ## Certification Alignment
 
