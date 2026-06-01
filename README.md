@@ -1,2 +1,2 @@
-# AWS-Three-Tier-Architecture-with-Application-Load-Balancer-and-Amazon-RDS
+# AWS-three tier-architecture 
 Deployed a three-tier web application architecture within AWS using a custom VPC that has public and private subnets across multiple Availability Zones. Implemented Application Load Balance to distribute traffic to EC2 and an Amazon RDS database as the backend data tier. Validated end-to-end connectivity between the web and database tiers.
