@@ -6,16 +6,15 @@ This project demonstrates the deployment of a highly available three-tier web ap
 
 ## Architecture Components
 
-- Amazon VPC
-- Public and Private Subnets
-- Internet Gateway
-- NAT Gateway
-- Application Load Balancer
-- Amazon EC2
-- Amazon RDS MySQL
-- Security Groups
-- Route Tables
-- AWS Systems Manager Session Manager
+## Architecture Components
+
+| Networking | Compute & Services |
+|------------|-------------------|
+| Amazon VPC | Amazon EC2 |
+| Public and Private Subnets | Application Load Balancer |
+| Internet Gateway | Amazon RDS MySQL |
+| NAT Gateway | AWS Systems Manager Session Manager |
+| Route Tables | Security Groups |
 
 ## Skills Demonstrated
 
