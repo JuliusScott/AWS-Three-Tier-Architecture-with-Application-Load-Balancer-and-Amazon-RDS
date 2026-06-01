@@ -6,8 +6,6 @@ This project demonstrates the deployment of a highly available three-tier web ap
 
 ## Architecture Components
 
-## Architecture Components
-
 | Networking | Compute & Services |
 |------------|-------------------|
 | Amazon VPC | Amazon EC2 |
