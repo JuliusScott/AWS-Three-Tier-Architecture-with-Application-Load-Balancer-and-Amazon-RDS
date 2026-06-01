@@ -27,11 +27,15 @@ This project demonstrates the deployment of a highly available three-tier web ap
 
 ## Certification Alignment
 
-- CompTIA Cloud+
-- CompTIA Network+
-- CompTIA Security+
-- LPI Linux Essentials
-- AWS Solutions Architect Associate
+- **CompTIA Cloud+:** Cloud architecture, deployment, operations, and troubleshooting.
+
+- **CompTIA Network+:** Network design, routing, connectivity, and infrastructure concepts.
+
+- **CompTIA Security+:** Secure administration, access control, and cloud security best practices.
+
+- **LPI Linux Essentials:** Linux command-line administration and system management.
+
+- **AWS Solutions Architect Associate:** Designing secure, scalable, and highly available AWS solutions.
 
 ## Repository Structure
 
